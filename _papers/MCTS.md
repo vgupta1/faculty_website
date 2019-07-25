@@ -1,0 +1,14 @@
+---
+title: A Comparison of Monte Carlo Tree Search and Mathematical Optimization for Large Scale Dynamic Resource Allocation
+authors: Dimitris Bertsimas, John D. Griffith, Mykel Kochenderfer, Velibor Misic, and Robert Moss
+shorttitle: MCTS
+journal: European Journal of Operations Research, 2017
+sort_order: 4
+pdf_path: MCTS_MO_DRA_v1.pdf
+links:
+  - name: doi:10.1016/j.ejor.2017.05.032
+    path: http://www.sciencedirect.com/science/article/pii/S0377221717304605
+  - name: arXiv:1405.5498 (Older)
+    path: https://arxiv.org/abs/1405.5498
+---
+Dynamic resource allocation (DRA) problems are an important class of dynamic stochastic optimization problems that arise in a variety of important real-world applications. DRA problems are notoriously difficult to solve to optimality since they frequently combine stochastic elements with intractably large state and action spaces. Although the artificial intelligence and operations research communities have independently proposed two successful frameworks for solving dynamic stochastic optimization problems---Monte Carlo tree search (MCTS) and mathematical optimization (MO), respectively---the relative merits of these two approaches are not well understood. In this paper, we adapt both MCTS and MO to a problem inspired by tactical wildfire and management and undertake an extensive computational study comparing the two methods on large scale instances in terms of both the state and the action spaces. We show that both methods are able to greatly improve on a baseline, problem-specific heuristic. On smaller instances, the MCTS and MO approaches perform comparably, but the MO approach outperforms MCTS as the size of the problem increases for a fixed computational budget.

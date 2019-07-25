@@ -1,0 +1,17 @@
+<!-- A little include to display Projects with a picture 
+	This doesn't quite do what we need, so was abandoned.  
+	Requires picID (path to pic) 
+			 projectTitle
+			 projectContent  --> 
+
+<div class="row" style="margin-top: 5%">
+  <div class="nine columns">
+    <h4>&rsaquo; {{include.projectTitle}}</h4>      
+    <p>
+    	{{include.projectContent}}
+    </p>
+  </div>
+  <div class="three columns">
+	<img align="right" src="images/{{include.picID}}" style="width: 400px;"/>
+  </div>
+</div>

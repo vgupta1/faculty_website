@@ -5,6 +5,7 @@ journal: Under Review (Updated Oct. 2018)
 authors: Adam Elmachtoub and Michael Hamilton
 awards:
   - name: Finalist in the 2018 INFORMS Service Science Best Paper Award
+  - name: Accepted in The 15th Conference on Web and Internet Economics (WINE), 2019
 sort_order: 10
 pdf_path: PersonalizedPricing.pdf
 links:

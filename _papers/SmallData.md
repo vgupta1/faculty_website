@@ -1,7 +1,7 @@
 ---
 title: Small-Data, Large-Scale Linear Optimization
 shorttitle: SmallData
-journal: Under Review (Updated Feb 2019) 
+journal: Management Science (Minor Revision)
 authors: Paat Rusmevichientong
 sort_order: 9
 pdf_path: SmallData_WP.pdf

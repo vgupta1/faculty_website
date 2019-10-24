@@ -24,5 +24,6 @@ github_username:  vgupta1
 
 # Build settings
 # markdown: kramdown
+theme: minima
 collections:
   - papers

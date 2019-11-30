@@ -4,9 +4,6 @@ layout: page
 title: Other Projects
 ---
 
-<!-- The way images are included here is bad "style."  It 
-combines markdown (which is content) with the style sheet... there should be a way to do with a custom style sheet by defining a special class.--> 
-
 #### &rsaquo; ClassE
 <img align="right" src="{{site.baseurl}}/images/classEFairness.png" style="width: 400px;"/>
 ClassE (pronounced “classy”) is an open-source software tool for academic timetabling. It was designed in close collaboration with Sloan Educational Services (SES) and has been used as part of the scheduling process at the Sloan School of Management since Fall 2012.

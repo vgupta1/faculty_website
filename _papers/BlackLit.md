@@ -2,7 +2,8 @@
 title: Inverse Optimization&#58; A New Perspective on the Black-Litterman Model
 authors: Dimitris Bertsimas and Ioannis Ch. Paschalidis
 shorttitle: BlackLit
-journal: Operations Research, November/December 2012 vol. 60.
+journal: Operations Research
+pub_date: Nov. 2012
 sort_order: 1
 pdf_path: inverseBlackLit.pdf
 links:

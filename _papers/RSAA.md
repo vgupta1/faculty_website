@@ -1,15 +1,14 @@
 ---
 title: Robust Sample Average Approximation
 authors: Dimitris Bertsimas and Nathan Kallus
-journal: Mathematical Programming, 29 June 2017
+journal: Mathematical Programming
+pub_date: June 2017
 shorttitle: RSAA
 sort_order: 5
 pdf_path: RobustSAA.pdf
 links:
   - name: doi:10.1007/s10107-017-1174-z
     path: https://link.springer.com/article/10.1007%2Fs10107-017-1174-z
-  - name: arXiv:1408.4445 (Older)
-    path: https://arxiv.org/abs/
 awards: 
   - name: Winner of the 2013 MIT Operations Research Center Best Student Paper Award
 ---

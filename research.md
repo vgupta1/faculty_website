@@ -46,3 +46,17 @@ title: Publications
  	<dd> <br> </dd>
  	{% endfor %}
  </dl>
+
+
+<!-- Javascript to make the abstracts work -->
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<script>
+ {% for paper in site.papers %}
+  $("#{{paper.shorttitle}}toggle").click( function() { $("#{{paper.shorttitle}}content").toggle(); return false; });
+ {% endfor %}
+</script>
+

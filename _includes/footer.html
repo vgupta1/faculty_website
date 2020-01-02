@@ -1,0 +1,48 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li><strong>{{ site.title }}</strong> © 2019</li>
+          <li><a href="mailto:{{ site.academic_email }}">{{ site.academic_email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          <li>
+            <img align="left"
+                src="{{site.baseurl}}/images/icon_googlescholar.jpg" 
+                style="width: 35px;">
+            <a href="https://scholar.google.com/citations?user={{site.googlescholar_username}}"> Google Scholar</a> 
+          </li>
+          <li>
+            <img align="middle"
+                src="{{site.baseurl}}/images/YouTube_logo_2017.svg" 
+                style="width: 40px;">
+            <a href="https://www.youtube.com/channel/UCh-2tZnIVcVgeA89E2oFnWw/">YouTube        </a> 
+          </li>
+          <li>
+            <a itemprop="sameAs" 
+            content="https://orcid.org/0000-0003-4371-9114" href="https://orcid.org/0000-0003-4371-9114" 
+            target="orcid.widget" 
+            rel="noopener noreferrer" 
+            style="vertical-align:top;">
+              <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-4371-9114
+            </a>          
+          </li>
+
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+         <p class="text">
+{{ site.description }} 
+      </div>
+    </div>
+
+  </div>
+
+</footer>

@@ -10,7 +10,7 @@ Try to see if you can do more of a "wrap" of the text -->
  <img align="right"
  	src="{{site.baseurl}}/images/IMG_1346.JPG" 
  	alt="Vishal Gupta at in his natural environment" 
- 	style="width: 400px;">
+ 	style="width: 400px; padding-left: 20px; padding-bottom: 10px">
 
 Before joining USC, Vishal completed his B.A. in Mathematics and Philosophy from Yale University, graduating Magna Cum Laude with honors, and completed Part III of the Mathematics Tripos at the University of Cambridge with distinction. He then spent four years working as a “quant” in finance at Barclays Capital focusing on commodities modeling, derivatives pricing and risk management. 
 Eventually, realizing how much he missed working towards a larger mission of impact, Vishal left the private sector to complete his Ph.D. in Operations Research at MIT in 2014 under [Prof. Dimitris Bertsimas](https://www.mit.edu/~dbertsim/). 

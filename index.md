@@ -1,6 +1,7 @@
 ---
 author: Vishal Gupta
-layout: default
+layout: page
+title: Welcome!
 ---
 
 <!-- Add an "Update" section that lists blog posts and recent paper stuff.
@@ -13,8 +14,9 @@ Make sure you wrap text
   <img align="right"
     src="{{site.baseurl}}/images/vishal_closeup.jpg" 
     alt="Vishal Gupta at USC Marshall" 
-    style="width: 200px;">
+    style="height: 275px; padding-left: 50px">
   </figure>
+<!-- style="width: 200px;" -->
 
     <p>  I am an Assistant Professor of 
       <a href = "https://www.marshall.usc.edu/departments/data-sciences-and-operations">Data Sciences and Operations </a>
@@ -38,11 +40,14 @@ Make sure you wrap text
     for a list of publications
       </li>
       <li><a href="{{site.baseurl}}/teaching.html">Teaching</a> for some resources I use in my classroom</li>
-      <li><a href="{{site.baseurl}}/projects.html"> Projects </a> for some of my other fun projects.   
+<!--       <li><a href="{{site.baseurl}}/projects.html"> Projects </a> for some of my other fun projects.   
       </li>
-    </ul>
+ -->    
+  </ul>
     </p>    
 
     <p>Interested in <a href="{{site.baseurl}}/collaboration.html"> working/collaborating</a> with me?
     </p>
+
+
 </div>

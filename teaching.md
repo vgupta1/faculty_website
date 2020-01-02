@@ -3,8 +3,8 @@ author: Vishal Gupta
 layout: page
 title: Teaching
 ---
-<img align="right" src="{{site.baseurl}}/images/teachingPhoto.jpg" style="float:right;width:400px">
 ## Case Materials
+<img align="right" src="{{site.baseurl}}/images/teachingPhoto.jpg" style="float:right;width:400px; padding-left: 10px">
 
 I developed these cases as part *BUAD 425: Data Analysis for Decision Making* (below).  They not only illustrate various data-analysis techniques, but also teach students to integrate data analysis with more qualitative judgements to guide decision-making.  
 
@@ -28,9 +28,11 @@ If you find any of these materials useful, please do drop me a line.  I enjoy le
 
 <br/>
 ## Selected Courses
- <img align="right" src="{{site.baseurl}}/images/teachingPhoto2.jpg" style="float:right;width:400px" >
 
 ### USC Marshall
+ <img align="right" src="{{site.baseurl}}/images/teachingPhoto2.jpg" style="float:right;width:400px" >
+
+
 * **BUAD 425 Data Analysis for Decision Making**, 2014-2018, Undergraduate Core.
   * Curriculum Development (2014), Instructor (2015, 2017)
   * **Awarded the 2016 Evan C. Teaching and Learning Innovation Award for the redesign of this course.** 

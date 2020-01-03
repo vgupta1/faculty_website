@@ -15,15 +15,25 @@
 # in the templates via {{ site.myvariable }}.
 title: Vishal Gupta
 email: guptavis@usc.edu
-description: Personal Website for Vishal Gupta
+description: Researcher and teacher focusing on data-driven decision-making, optimization, operations research and statistics.
   
 baseurl: "/Vishal-Gupta" # the subpath of your site, e.g. /blog
 #url: "http://example.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  vgupta1
 
+## Some Stuff to make the theme work.
+academic_email: guptavis@usc.edu
+googlescholar_username: KZcnoikAAAAJ&hl  #Weirdo google scholar encoding
+
+
+google_analytics: UA-44775466-2
+
+##Nav bar is set by editing the _menu.yml file in _data folder
+
 # Build settings
 # markdown: kramdown
-theme: minima
+#theme: minima
+remote_theme: ys1998/academic-portfolio
 collections:
   - papers

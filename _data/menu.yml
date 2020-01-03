@@ -1,0 +1,14 @@
+- title: "About Me"
+  href: "/aboutme.html"
+
+- title: "Publications"
+  href: "/research.html"
+
+- title: "Teaching"
+  href: "/teaching.html"
+
+- title: "Collaborating"
+  href: "/collaboration.html/"
+
+- title: "CV"
+  href: "/Papers/CV.pdf"

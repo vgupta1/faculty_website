@@ -2,6 +2,7 @@
 author: Vishal Gupta
 layout: page
 title: Welcome!
+excerpt: Vishal Gupta USC University of Southern California Marshall School of Business research teaching CV data-driven optimization small-data regime operations research statistics
 ---
 
 <!-- Add an "Update" section that lists blog posts and recent paper stuff.
@@ -13,7 +14,7 @@ Make sure you wrap text
   <figure>  
   <img align="right"
     src="{{site.baseurl}}/images/vishal_closeup.jpg" 
-    alt="Vishal Gupta at USC Marshall" 
+    alt="Vishal Gupta, Asssistant Professor of Data Sciences and Operations at USC Marshall" 
     style="height: 275px; padding-left: 50px">
   </figure>
 <!-- style="width: 200px;" -->

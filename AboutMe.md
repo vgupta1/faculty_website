@@ -2,6 +2,7 @@
 author: Vishal Gupta
 layout: page
 title: About Me
+excerpt:  Vishal Gupta University of Southern California USC Marshall School of Business biography bio
 ---
 <!-- VG:  Update picture to something more playful.  
 Also try to stack it on top of some info about you like Velibor/Brad
@@ -9,7 +10,7 @@ Try to see if you can do more of a "wrap" of the text -->
 
  <img align="right"
  	src="{{site.baseurl}}/images/IMG_1346.JPG" 
- 	alt="Vishal Gupta at in his natural environment" 
+ 	alt="Vishal Gupta in his natural environment" 
  	style="width: 400px; padding-left: 20px; padding-bottom: 10px">
 
 Before joining USC, Vishal completed his B.A. in Mathematics and Philosophy from Yale University, graduating Magna Cum Laude with honors, and completed Part III of the Mathematics Tripos at the University of Cambridge with distinction. He then spent four years working as a “quant” in finance at Barclays Capital focusing on commodities modeling, derivatives pricing and risk management. 

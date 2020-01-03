@@ -2,9 +2,13 @@
 author: Vishal Gupta
 layout: page
 title: Teaching
+excerpt:  analytics teaching materials operations research cases data case-based teaching
 ---
 ## Case Materials
-<img align="right" src="{{site.baseurl}}/images/teachingPhoto.jpg" style="float:right;width:400px; padding-left: 10px">
+<img align="right" 
+    src="{{site.baseurl}}/images/teachingPhoto.jpg" 
+    style="float:right;width:400px; padding-left: 10px"
+    alt = "Vishal Gupta Teaching Cases">
 
 I developed these cases as part *BUAD 425: Data Analysis for Decision Making* (below).  They not only illustrate various data-analysis techniques, but also teach students to integrate data analysis with more qualitative judgements to guide decision-making.  
 
@@ -30,7 +34,9 @@ If you find any of these materials useful, please do drop me a line.  I enjoy le
 ## Selected Courses
 
 ### USC Marshall
- <img align="right" src="{{site.baseurl}}/images/teachingPhoto2.jpg" style="float:right;width:400px" >
+ <img align="right" 
+      src="{{site.baseurl}}/images/teachingPhoto2.jpg" style="float:right;width:400px" 
+      alt = "Vishal Gupta teaching engineering lecture">
 
 
 * **BUAD 425 Data Analysis for Decision Making**, 2014-2018, Undergraduate Core.

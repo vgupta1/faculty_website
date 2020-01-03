@@ -26,6 +26,9 @@ github_username:  vgupta1
 academic_email: guptavis@usc.edu
 googlescholar_username: KZcnoikAAAAJ&hl  #Weirdo google scholar encoding
 
+
+google_analytics: UA-44775466-2
+
 ##Nav bar is set by editing the _menu.yml file in _data folder
 
 # Build settings

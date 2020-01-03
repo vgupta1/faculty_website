@@ -2,6 +2,7 @@
 author: Vishal Gupta
 layout: page
 title: Publications
+excerpt: data-driven optimization small-data regime operations research robust uncertainty decision-making scarce data
 ---
 {% assign papers = site.papers | sort: 'sort_order'  | reverse %}
  <dl>{% for paper in papers %}

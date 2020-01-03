@@ -28,7 +28,7 @@ Please contact me directly for the associated datasets, example code, and teachi
 * **Targeted Promotions at ArtZee**  (Personalized Promotions)
   * [Case](/Papers/Artsy_TargedPromotions_Case.pdf)
 
-If you find any of these materials useful, please do drop me a line.  I enjoy learning about how others are using these cases in their own classrooms
+If you find any of these materials useful, please do drop me a line.  I enjoy learning about how others are using these cases in their own classrooms.
 
 <br/>
 ## Selected Courses

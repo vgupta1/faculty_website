@@ -38,7 +38,9 @@ Make sure you wrap text
       to read a bit more
     </li>
       <li><a href="{{site.baseurl}}/research.html"><b>Publications </b></a>
-    for a list of publications
+      or my <a href="https://scholar.google.com/citations?user=KZcnoikAAAAJ&hl">
+       Google Scholar </a>
+    for some of my academic papers
       </li>
       <li><a href="{{site.baseurl}}/teaching.html">Teaching</a> for some resources I use in my classroom</li>
 <!--       <li><a href="{{site.baseurl}}/projects.html"> Projects </a> for some of my other fun projects.   

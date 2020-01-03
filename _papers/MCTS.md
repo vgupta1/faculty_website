@@ -3,7 +3,7 @@ title: A Comparison of Monte Carlo Tree Search and Mathematical Optimization for
 authors: Dimitris Bertsimas, John D. Griffith, Mykel Kochenderfer, Velibor Misic, and Robert Moss
 shorttitle: MCTS
 journal: European Journal of Operations Research
-pub_date: 2017
+pub_date: Dec. 2017
 sort_order: 4
 pdf_path: MCTS_MO_DRA_v1.pdf
 links:

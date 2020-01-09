@@ -2,7 +2,7 @@
 title: Robust Sample Average Approximation
 authors: Dimitris Bertsimas and Nathan Kallus
 journal: Mathematical Programming
-pub_date: June 2017
+pub_date: Jun. 2017
 shorttitle: RSAA
 sort_order: 5
 pdf_path: RobustSAA.pdf

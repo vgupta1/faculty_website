@@ -2,7 +2,7 @@
 title: Near-Optimal Bayesian Ambiguity Sets for Distributionally Robust Optimization
 shorttitle: BayesDRO
 journal: Management Science
-pub_date: March 2019
+pub_date: Mar. 2019
 sort_order: 7
 pdf_path: Bayes_DRO_v5_final.pdf
 links:

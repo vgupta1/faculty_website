@@ -1,7 +1,7 @@
 ---
 title: The Value of Personalized Pricing
 shorttitle: PersonalizedPricing
-journal: Under Review
+journal: Under Review. (Minor Revision at Management Science)
 pub_date: Updated Dec. 2019
 authors: Adam Elmachtoub and Michael Hamilton
 awards:

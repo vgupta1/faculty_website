@@ -7,10 +7,16 @@ title: Collaborations
 I have the privilege of working with a number of exceptional graduate students and research colleagues in industry.
 
 <p align="center"> 
+<br/>
 <span style="font-size:Large;">
 <b>I am always looking for new students and industry collaborators! </b>
 </span>
 </p>
+
+<br/>
+### Industry Collaborators
+I'm always excited to connect new collaborators focused on making a positive impact.  I have previously worked in supply-chain, analytics, healthcare, finance and with some non-profit, government agencies.  Please send me an email to schedule a meeting!
+
 
 <br/>
 ### Prospective and Existing Ph.D. Students
@@ -21,7 +27,7 @@ Ph.D. candidates are admitted and funded by the school, not by individual facult
 or the OM Ph.D. program coordinator
 [Prof. Greys Sosic](http://www.marshall.usc.edu/faculty/directory/sosic).
 
-If you're an existing Ph.D. student at USC and want to collaborate on a project, please:
+If you're an existing Ph.D. student and want to collaborate on a project, please:
 
 * Check to make sure it's ok with your advisor.
 * Take a look at some of my research papers.
@@ -29,7 +35,7 @@ If you're an existing Ph.D. student at USC and want to collaborate on a project,
 
 <br/>
 ### Master's and Undergraduate Students
-I sometimes computational projects suitable for *ambitious* Master's and Undergraduate students.  These projects are fairly technical, so an ideal candidate would have
+I sometimes have computational projects suitable for *ambitious* Master's and Undergraduate students.  These projects are fairly technical, so an ideal candidate would have
 
 * A **strong** mathematical/quantitative background.
 * A **strong** working knowledge of mathematical optimization including convex optimization and duality.
@@ -41,6 +47,3 @@ If that's you, please email me!  Please include details about
  - Your experience with programming
  - Any research ideas or problems
 
-<br/>
-### Industry Collaborators
-I'm always excited to connect new collaborators focused on making a positive impact.  I have previously worked in supply-chain, analytics, healthcare, finance and a some non-profit, government agencies.  Please just send me an email and we can schedule a time to talk.

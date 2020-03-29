@@ -2,10 +2,10 @@
 title: Data-Pooling in Stochastic Optimization
 shorttitle: DataPooling
 journal: Under Review
-pub_date: Submitted May 2019 
+pub_date: Updated March 2020
 authors: Nathan Kallus
 sort_order: 11
-pdf_path: DataPooling.pdf
+pdf_path: DataPooling_WP.pdf
 links:
   - name: SSRN
     path: http://ssrn.com/abstract=3397336

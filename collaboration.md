@@ -4,8 +4,6 @@ layout: page
 title: Collaborations
 ---
 
-I have the privilege of working with a number of exceptional graduate students and research colleagues in industry.
-
 <p align="center"> 
 <br/>
 <span style="font-size:Large;">
@@ -15,7 +13,7 @@ I have the privilege of working with a number of exceptional graduate students a
 
 <br/>
 ### Industry Collaborators
-I'm always excited to connect new collaborators focused on making a positive impact.  I have previously worked in supply-chain, analytics, healthcare, finance and with some non-profit, government agencies.  Please send me an email to schedule a meeting!
+I'm always excited to connect with new collaborators focused on making a positive impact.  I have previously worked in supply-chain, analytics, healthcare, finance and with some non-profit, government agencies.  Please send me an email to schedule a meeting!
 
 
 <br/>

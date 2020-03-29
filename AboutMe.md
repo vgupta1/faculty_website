@@ -15,7 +15,7 @@ Before joining USC, Vishal completed his B.A. in Mathematics and Philosophy from
 Eventually, realizing how much he missed working towards a larger mission of impact, Vishal left the private sector to complete his Ph.D. in Operations Research at MIT in 2014 under [Prof. Dimitris Bertsimas](https://www.mit.edu/~dbertsim/). 
 
 Vishal's research focuses on data-driven decision-making and optimization, particularly in settings where data are scarce.  
-Such settings are increasingly common in modern applications given  their focus on personalization/customization and adapting to dynamic environments in real-time.  Consequently, unsurprisingly, Vishal's research spans a wide variety of applications including risk and revenue management, education, healthcare, and business analytics.  He has received a number of recognitions for his work including Finalist for the Pierskalla Best Paper competition, Finalist for the Service Science Best Paper competition, and Finalist for the George Nicholson Best Student Paper competition. 
+Such settings are common in applications that center on personalization/customization and adapting to changing environments in real-time.  Consequently, Vishal's research spans a wide variety of areas including risk and revenue management, education, healthcare, and business analytics.  He has received a number of recognitions for his work including Finalist for the Pierskalla Best Paper competition, Finalist for the Service Science Best Paper competition, and Finalist for the George Nicholson Best Student Paper competition. 
 
 See his **[CV]({{site.baseurl}}/Papers/CV.pdf)** for more details.
     

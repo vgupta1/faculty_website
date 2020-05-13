@@ -2,7 +2,7 @@
 title: The Value of Personalized Pricing
 shorttitle: PersonalizedPricing
 journal: Under Review. (Minor Revision at Management Science)
-pub_date: Updated Dec. 2019
+pub_date: Updated May 2020
 authors: Adam Elmachtoub and Michael Hamilton
 awards:
   - name: Finalist in the 2018 INFORMS Service Science Best Paper Award

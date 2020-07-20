@@ -1,8 +1,8 @@
 ---
 title: The Value of Personalized Pricing
 shorttitle: PersonalizedPricing
-journal: Under Review. (Minor Revision at Management Science)
-pub_date: Updated May 2020
+journal: Management Science
+pub_date: Forthcoming
 authors: Adam Elmachtoub and Michael Hamilton
 awards:
   - name: Finalist in the 2018 INFORMS Service Science Best Paper Award
@@ -15,4 +15,8 @@ links:
   - name: Code
     path: https://github.com/vgupta1/VoPP_OptProblems
 ---
-Increased availability of high-quality customer information has fueled interest personalized pricing strategies, i.e., strategies that predict an individual customer's valuation for a product and then offer a customized price tailored to that customer. While the appeal of personalized pricing is clear, it may also incur large costs in the form of market research, investment in information technology and analytics expertise, and branding risks. In light of these tradeoffs, in this work, we study the value of personalized pricing over simpler pricing strategies, such as charging a single price to all customers. In the first part of the work, we provide tight, closed-form upper bounds on the ratio of personalized pricing profits to single-pricing profits that depend on simple statistics of the valuation distribution. These bounds shed light on the types of markets for which personalized pricing has the most potential. In the second part of the work, we use these bounds to study the two key assumptions underlying personalized pricing: (i) the firm can charge a distinct price to each customer and (ii) the firm can perfectly predict customer valuations. Specifically, we bound the ratio of personalized pricing profits to the profits from a k-segmentation strategy where the firm is omniscient but can only charge customers one of k prices, and the ratio of personalized pricing profits to the profits of a feature-based pricing strategy, where the firm can charge a continuum of prices, but is no longer omniscient. These bounds help quantify the value of the operational capability of charging distinct prices and the value of additional predictive accuracy, respectively. Finally, we provide a general framework for computing an essentially tight bound on the ratio of personalized pricing profits to single-pricing profits in terms of the mean, support, and a generalized moment of the distribution
+Increased availability of high-quality customer information has fueled interest in personalized pricing strategies, i.e., strategies that predict an individual customer’s valuation for a product and then o↵er a price tailored to that customer. While the appeal of personalized pricing is clear, it may also incur large costs in the form of market research, investment in information technology and analytics expertise, and branding risks. In light of these trade-offs, our work studies the value of personalized pricing strategies over a simple
+single price strategy.
+
+We first provide closed-form lower and upper bounds on the ratio between the profits of an idealized
+personalized pricing strategy (first-degree price discrimination) and a single price strategy. Our bounds depend on simple statistics of the valuation distribution and shed light on the types of markets for which personalized pricing has little or significant potential value. Second, we consider a feature-based pricing model where customer valuations can be estimated from observed features. We show how to transform our aforementioned bounds into lower and upper bounds on the value of feature-based pricing over single pricing depending on the degree to which the features are informative for the valuation. Finally, we demonstrate how to obtain sharper bounds by incorporating additional information about the valuation distribution (moments or shape constraints) by solving tractable linear optimization problems.

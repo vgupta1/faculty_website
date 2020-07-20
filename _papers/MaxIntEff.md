@@ -2,7 +2,7 @@
 title: Maximizing Intervention Effectiveness
 shorttitle: MaxIntEff
 journal: Management Science
-pub_date: Forthcoming
+pub_date: May 2020
 authors: Brian Rongqing Han, Song-Hee Kim, and Hyung Paek
 awards: 
   - name: Finalist in the 2018 Pierskalla Best Paper Award

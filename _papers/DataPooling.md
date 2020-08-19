@@ -1,7 +1,7 @@
 ---
 title: Data-Pooling in Stochastic Optimization
 shorttitle: DataPooling
-journal: Under Review
+journal: Minor Revision in Management Science
 pub_date: Updated March 2020
 authors: Nathan Kallus
 sort_order: 11

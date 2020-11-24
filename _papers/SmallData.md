@@ -2,11 +2,13 @@
 title: Small-Data, Large-Scale Linear Optimization
 shorttitle: SmallData
 journal: Management Science
-pub_date: Forthcoming
+pub_date: Published online 1 July 2020
 authors: Paat Rusmevichientong
 sort_order: 9
 pdf_path: SmallData_WP.pdf
 links:
+  - name: 10.1287/mnsc.2019.3554
+    path: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3554
   - name: SSRN
     path: https://ssrn.com/abstract=3065655
   - name: Code

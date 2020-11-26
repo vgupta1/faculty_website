@@ -5,11 +5,6 @@ title: Welcome!
 excerpt: Vishal Gupta USC University of Southern California Marshall School of Business research teaching CV data-driven optimization small-data regime operations research statistics
 ---
 
-<!-- Add an "Update" section that lists blog posts and recent paper stuff.
-Add a Selected Publications Section
-Make sure you wrap text
- -->
-
 <div class = "home">
   <figure>  
   <img align="right"
@@ -52,7 +47,8 @@ Make sure you wrap text
     </p>
 
 
-<h2>Latest News</h2>
+<h2>Recent News</h2>
+<!-- comment back in when you can figure out how to make it LOOK scrollish -->
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
 <ul>

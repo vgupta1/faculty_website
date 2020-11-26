@@ -5,7 +5,7 @@ title: Other Projects
 excerpt: timetable scheduling hubway Challenge data-driven projects
 ---
 
-#### &rsaquo; ClassE
+# ClassE
 <img align="right" 
 	src="{{site.baseurl}}/images/classEFairness.png" 
 	style="width: 400px;"
@@ -17,7 +17,7 @@ Unlike other time-tabling software, ClassE focuses on finding fair classroom and
 
 Additional screenshots, documentation and code available on [Github.](https://github.com/vgupta1/ClassE)
 
-#### &rsaquo; Hubway Challenge
+# Hubway Challenge
 <img align="right" 
 	src="{{site.baseurl}}/images/hubway.png" 
 	style="width: 400px;"

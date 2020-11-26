@@ -8,7 +8,7 @@ excerpt: data-driven optimization small-data regime operations research robust u
 {% assign papers = site.papers | where: "journal", "Work in Progress" | sort: 'sort_order'  | reverse %}
  <dl>{% for paper in papers %}
    <dt><strong>&middot; &nbsp;  
-		<a href="{{site.baseurl}}/Papers/{{paper.pdf_path}}"> 
+		<a href="{{paper.pdf_path}}"> 
    		{{paper.title}}. </a> </strong>
    		
 	   	<!-- Author List if Necessary -->

@@ -5,7 +5,7 @@ journal: Work in Progress
 pub_date: 
 authors: Hamsa Bastani, Kimon Drakopoulos
 sort_order: 12
-pdf_path:
+pdf_path: https://github.com/vgupta1/EvaTargetedCovid19Testing
 links:
   - name: Open-Source Code
     path: https://github.com/vgupta1/EvaTargetedCovid19Testing

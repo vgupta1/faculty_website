@@ -57,7 +57,7 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 with N. Kallus was accepted to <strong>Management Science.</strong></li>
 <li><i> Nov. 2020</i> - My co-author Kimon Drakopoulos and I were invited to a 
   <a href="https://vimeo.com/479149925">webinar with the Dean</a>
-  on our joint project (with Hamsa Bastani)
+  on our joint project (with Hamsa Bastani) about
 designing COVID-19 screening policies for Greece.
 </li>
 <li> <i>Nov. 2020</i> - My collaborator Hamsa Bastani gave an awesome

@@ -11,7 +11,7 @@ links:
     path: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3554
   - name: SSRN
     path: https://ssrn.com/abstract=3065655
-  - name: Code
+  - name: Open-Source Code
     path: https://github.com/vgupta1/EmpBayes
 ---
 Optimization applications often depend upon a huge number of uncertain parameters.  In many contexts, however, the amount of relevant data per parameter is small, and hence,  we may only have  imprecise estimates.  We term this setting -- where the number of uncertainties is large, but all estimates have low precision -- the "small-data, large-scale regime."  We formalize a model for this new regime, focusing on optimization problems with uncertain linear objectives.  We show that common data-driven methods may perform poorly in this new setting, despite their provably good performance in the traditional large-sample regime.  Such methods include sample average approximation, "estimate-then-optimize" policies, data-driven robust optimization, and certain regularized policies.  

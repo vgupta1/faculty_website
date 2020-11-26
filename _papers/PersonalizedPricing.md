@@ -12,7 +12,7 @@ pdf_path: PersonalizedPricing.pdf
 links:
   - name: SSRN
     path: https://ssrn.com/abstract=3127719
-  - name: Code
+  - name: Open-Source Code
     path: https://github.com/vgupta1/VoPP_OptProblems
 ---
 Increased availability of high-quality customer information has fueled interest in personalized pricing strategies, i.e., strategies that predict an individual customer’s valuation for a product and then o↵er a price tailored to that customer. While the appeal of personalized pricing is clear, it may also incur large costs in the form of market research, investment in information technology and analytics expertise, and branding risks. In light of these trade-offs, our work studies the value of personalized pricing strategies over a simple

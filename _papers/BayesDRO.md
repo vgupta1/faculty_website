@@ -10,7 +10,7 @@ links:
     path: https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3140
   - name: Optimization Online
     path: http://www.optimization-online.org/DB_HTML/2015/07/4983.html
-  - name: Code
+  - name: Open-Source Code
     path: https://github.com/vgupta1/AmbiguitySets
 ---
 We propose a Bayesian framework for assessing the relative strengths of data-driven ambiguity sets in distributionally robust optimization (DRO) when the underlying distribution is defined by a finite-dimensional parameter.  The key idea is to measure the relative size between a candidate ambiguity set and a specific, asymptotically optimal set.  This asymptotically optimal set is provably the smallest convex ambiguity set that satisfies a particular Bayesian robustness guarantee with respect to a given class of constraints as the amount of data grows large.  In other words, it is a subset of any other convex set that satisfies the same guarantee.  Using this framework, we prove that 

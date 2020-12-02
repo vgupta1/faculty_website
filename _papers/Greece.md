@@ -15,8 +15,13 @@ In collaboration with the Greek government, we designed and deployed a nation-wi
 While the paper is still in progress, open-source code with a brief overview of the algorithm is available above.  
 
 Please see also:
- - [USC Press Release Describing System](https://pressroom.usc.edu/reopen-greek-economy/)
- - [Webinar with Authors](https://vimeo.com/479149925)
+ - [Webinar with Authors](https://www.marshall.usc.edu/news/project-eva-ai-covid-and-greek-tourism)
  - [My INFORMS Talk](https://cattendee.abstractsonline.com/meeting/9022/presentation/1935
 ) (accessible to INFORMS members only)
+ - Popular News Coverage:  
+   - [PhocusWire](https://www.phocuswire.com/algorithms-helped-bring-tourists-back-to-Greece)- [Travel Weekly Asia](https://www.travelweekly-asia.com/Destination-Travel/Reopening-to-tourism-It-s-all-Greek-to-me)
+   - [USC Marshall News](https://www.marshall.usc.edu/news/data-driven-reopening)
+   - [USC Press Release](https://pressroom.usc.edu/reopen-greek-economy/)
+
+
 

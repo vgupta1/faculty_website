@@ -81,11 +81,6 @@ excerpt: data-driven optimization small-data regime operations research robust u
 
  	<!-- Abstract Paper Links -->
  	<dd><a id="{{paper.shorttitle}}toggle" href="">[Abstract]</a>
-		
-		<!-- Main Link --> 		
-<!-- 		&nbsp; <a href="{{site.baseurl}}/Papers/{{paper.pdf_path}}">
-   		[PDF] </a>
- -->
  		<!-- Auxiliary Paper Links As Necessary -->
  		{% for link in paper.links %}
  		  &nbsp; <a href="{{link.path}}">[{{link.name}}] </a>
@@ -95,7 +90,7 @@ excerpt: data-driven optimization small-data regime operations research robust u
 
  	<!-- Awards if Necessary -->
  	{% for award in paper.awards %}
- 		<dd style="color:Orange" >**{{award.name}}**</dd>
+		<dd style="color:Orange" >**{{award.name}}**</dd>
  	{% endfor %}
 
  	<!-- Actual Abstract -->

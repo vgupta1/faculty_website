@@ -52,24 +52,25 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
 <ul>
-<li><i>Nov. 2020</i> - My paper 
+<li>Dec. 2020 - <a href="https://www.phocuswire.com/algorithms-helped-bring-tourists-back-to-Greece">PhocusWire</a> (a UK Travel News Site) covered our joint project on deploying Greece's COVID-19 screening policy at the border (with Kimon Drakopoulos and Hamsa Bastani).</li>
+<li>Nov. 2020 - My paper 
   <a href="{{site.baseurl}}/Papers/DataPooling_WP.pdf">Data Pooling in Stochastic Optimization</a>
 with N. Kallus was accepted to <strong>Management Science.</strong></li>
-<li><i> Nov. 2020</i> - My co-author Kimon Drakopoulos and I were invited to a 
+<li> Nov. 2020 - My co-author Kimon Drakopoulos and I were invited to a 
   <a href="https://vimeo.com/479149925">webinar with the Dean</a>
   on our joint project (with Hamsa Bastani) about
-designing COVID-19 screening policies for Greece.
+deploying a COVID-19 screening policy for Greece.
 </li>
-<li> <i>Nov. 2020</i> - My collaborator Hamsa Bastani gave an awesome
+<li> Nov. 2020 - My collaborator Hamsa Bastani gave an awesome
 <a href="https://youtu.be/I_OUdIih_00"> talk at Simons Institute </a> on our joint project (with Kimon Drakopoulos) about designing COVID-19 screening policies for Greece.
 </li>
-<li> <i> Nov. 2020 </i> - My student Michael Huang gave a great talk on our paper (with Paat Rusmechientong) on 
+<li>  Nov. 2020  - My student Michael Huang gave a great talk on our paper (with Paat Rusmechientong) on 
 <a href = "https://cattendee.abstractsonline.com/meeting/9022/presentation/8246"> 
 Learning Policy Performance in the Small-Data, Large-Scale Optimization Regime
 </a>
 at the INFORMS Annual Conference.
 </li>
-<li> <i> Nov. 2020 </i> - I gave a talk on my joint project (with Hamsa Bastani and Kimon Drakopoulos) on
+<li>  Nov. 2020  - I gave a talk on my joint project (with Hamsa Bastani and Kimon Drakopoulos) on
 <a href = "https://cattendee.abstractsonline.com/meeting/9022/presentation/1935"> 
 Deploying a Real-Time, Data-Driven COVID-19 Screening Policy at the Greek
 </a>

@@ -19,6 +19,15 @@ Such settings are common in applications that center on personalization/customiz
 
 See my **[CV]({{site.baseurl}}/Papers/CV.pdf)** for more details.
 
+See also some **Popular News Coverage** on some of my [research]({{site.baseurl}}/research.html) projects:
+ - Maximizing Intervention Effectiveness
+   - [USC Marshall News](https://www.marshall.usc.edu/news/targeting-treatment)
+ - Deploying a Data-Driven COVID-19 Screening Policy at the Greek Border
+   - [PhocusWire](https://www.phocuswire.com/algorithms-helped-bring-tourists-back-to-Greece)- [Travel Weekly Asia](https://www.travelweekly-asia.com/Destination-Travel/Reopening-to-tourism-It-s-all-Greek-to-me)
+   - [USC Marshall News](https://www.marshall.usc.edu/news/data-driven-reopening)
+   - [USC Press Release](https://pressroom.usc.edu/reopen-greek-economy/)
+
+
 <!-- Before joining USC, Vishal completed his B.A. in Mathematics and Philosophy from Yale University, graduating Magna Cum Laude with honors, and completed Part III of the Mathematics Tripos at the University of Cambridge with distinction. He then spent four years working as a “quant” in finance at Barclays Capital focusing on commodities modeling, derivatives pricing, and risk management. 
 Eventually, realizing how much he missed working towards a larger mission of impact, Vishal left the private sector to complete his Ph.D. in Operations Research at MIT in 2014 under [Prof. Dimitris Bertsimas](https://www.mit.edu/~dbertsim/). 
 

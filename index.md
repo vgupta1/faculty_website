@@ -22,7 +22,8 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
  <p> I also currently serve as an Associate Editor for 
   <a href = "https://pubsonline.informs.org/journal/mnsc">
   Management Science </a>
-  in the "Big Data Analytics" department.  
+  in the "Big Data Analytics" department, and as an Associate Editor for <a href = "https://pubsonline.informs.org/journal/msom">
+  MSOM</a>.  
   </p>
 
     <p>If you're curious, please check out:
@@ -52,6 +53,8 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
 <ul>
+<li>Jan. 2021 - I am honored to selected to serve as an Associate Editor for <a href = "https://pubsonline.informs.org/journal/msom">
+  MSOM</a>.</li>
 <li>Dec. 2020 - <a href="https://www.phocuswire.com/algorithms-helped-bring-tourists-back-to-Greece">PhocusWire</a> (a UK Travel News Site) covered our joint project on deploying Greece's COVID-19 screening policy at the border (with Kimon Drakopoulos and Hamsa Bastani).</li>
 <li>Nov. 2020 - My paper 
   <a href="{{site.baseurl}}/Papers/DataPooling_WP.pdf">Data Pooling in Stochastic Optimization</a>

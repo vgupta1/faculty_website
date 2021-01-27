@@ -23,7 +23,9 @@ See also some **Popular News Coverage** on some of my [research]({{site.baseurl}
  - Maximizing Intervention Effectiveness
    - [USC Marshall News](https://www.marshall.usc.edu/news/targeting-treatment)
  - Deploying a Data-Driven COVID-19 Screening Policy at the Greek Border
-   - [PhocusWire](https://www.phocuswire.com/algorithms-helped-bring-tourists-back-to-Greece)- [Travel Weekly Asia](https://www.travelweekly-asia.com/Destination-Travel/Reopening-to-tourism-It-s-all-Greek-to-me)
+   - [Entrepreneur](https://www.entrepreneur.com/article/363706)
+   - [PhocusWire](https://www.phocuswire.com/algorithms-helped-bring-tourists-back-to-Greece)
+   - [Travel Weekly Asia](https://www.travelweekly-asia.com/Destination-Travel/Reopening-to-tourism-It-s-all-Greek-to-me)
    - [USC Marshall News](https://www.marshall.usc.edu/news/data-driven-reopening)
    - [USC Press Release](https://pressroom.usc.edu/reopen-greek-economy/)
 

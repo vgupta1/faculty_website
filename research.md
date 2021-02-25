@@ -4,7 +4,13 @@ layout: page
 title: Publications
 excerpt: data-driven optimization small-data regime operations research robust uncertainty decision-making scarce data
 ---
+<!-- Only perform this section if there are WIP papers-->
+ {% assign papers = site.papers | where: "journal", "Work in Progress" | sort: 'sort_order'  | reverse %}
+
+{%unless papers ==empty %}
 # In Preparation
+{%endunless%}
+
 {% assign papers = site.papers | where: "journal", "Work in Progress" | sort: 'sort_order'  | reverse %}
  <dl>{% for paper in papers %}
    <dt><strong>&middot; &nbsp;  
@@ -53,7 +59,7 @@ excerpt: data-driven optimization small-data regime operations research robust u
 
 
 
-# Accepted
+# Accepted and Under Review
 {% assign papers = site.papers | sort: 'sort_order'  | reverse %}
 
 {% assign iter = 0 %}

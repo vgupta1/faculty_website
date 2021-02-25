@@ -53,6 +53,7 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
 <ul>
+<li>Feb. 2021 - A <a href="http://faculty.marshall.usc.edu/Vishal-Gupta/research.html">preprint</a> describing our COVID-19 work with Greece and its effectiveness is now available.</li>
 <li>Jan. 2021 - <a href="https://www.entrepreneur.com/article/363706">Entrepreneur</a> published a short article on our project on deploying Greece's COVID-19 screening policy at the border (with Kimon Drakopoulos and Hamsa Bastani). </li>
 <li>Jan. 2021 - I am honored to have been selected to serve as an Associate Editor for <a href = "https://pubsonline.informs.org/journal/msom">
   MSOM</a>.</li>

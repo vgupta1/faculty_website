@@ -9,11 +9,11 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
   <figure>  
   <img align="right"
     src="{{site.baseurl}}/images/vishal_closeup.jpg" 
-    alt="Vishal Gupta, Asssistant Professor of Data Sciences and Operations at USC Marshall" 
+    alt="Vishal Gupta, Associate Professor of Data Sciences and Operations at USC Marshall" 
     style="height: 275px; padding-left: 50px">
   </figure>
 
-    <p>  I am an Assistant Professor of 
+    <p>  I am an Associate Professor of 
       <a href = "https://www.marshall.usc.edu/departments/data-sciences-and-operations">Data Sciences and Operations </a>
     at 
       <a href="http://www.marshall.usc.edu/"> USC Marshall</a> and an Affiliate Faculty at the <a href="https://www.cais.usc.edu/"> USC Center for AI and Society</a>. 
@@ -52,7 +52,8 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <!-- comment back in when you can figure out how to make it LOOK scrollish -->
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
-<ul>
+<ul>  
+<li>Mar. 2021 - I am honored to have been promoted to an Associate Professor with tenure!</li>
 <li>Feb. 2021 - A <a href="http://faculty.marshall.usc.edu/Vishal-Gupta/research.html">preprint</a> describing our COVID-19 work with Greece and its effectiveness is now available.</li>
 <li>Jan. 2021 - <a href="https://www.entrepreneur.com/article/363706">Entrepreneur</a> published a short article on our project on deploying Greece's COVID-19 screening policy at the border (with Kimon Drakopoulos and Hamsa Bastani). </li>
 <li>Jan. 2021 - I am honored to have been selected to serve as an Associate Editor for <a href = "https://pubsonline.informs.org/journal/msom">

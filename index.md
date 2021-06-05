@@ -52,7 +52,11 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <!-- comment back in when you can figure out how to make it LOOK scrollish -->
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
-<ul>  
+<ul>
+<li> May 2021 - My doctoral student <a href="https://mh3166.github.io/">Michael Huang</a> was awarded the Marshall School of Business PhD Student Outstanding Researcher Award.  This award is allocated to one student at Marshall each year. Congratulations, Michael!
+</li>
+<li>May 2021 - Prof. Kimon Drakopoulos and I are honored to received the Dr. Jagdish Sheth Award for Impact of Research on Practice for <a href="{{site.baseurl}}/Papers/GreeceCovid.pdf">our work</a> with the Greek Government managing their COVID-19 response.
+</li>
 <li>Mar. 2021 - I am honored to have been promoted to an Associate Professor with tenure!</li>
 <li>Feb. 2021 - A <a href="http://faculty.marshall.usc.edu/Vishal-Gupta/research.html">preprint</a> describing our COVID-19 work with Greece and its effectiveness is now available.</li>
 <li>Jan. 2021 - <a href="https://www.entrepreneur.com/article/363706">Entrepreneur</a> published a short article on our project on deploying Greece's COVID-19 screening policy at the border (with Kimon Drakopoulos and Hamsa Bastani). </li>

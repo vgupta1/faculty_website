@@ -53,6 +53,12 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
 <ul>
+<li> June 2021 - I finished designing and teaching three new classes this past semester: a PhD Class on "Stochastic Foundations of Prescriptive Analytics", a PhD workshop on "Expositional Writing for Mathematics", and Marshall's "Undergraduate Honors Research Seminar."  Check out my <a href="{{site.baseurl}}/teaching.html">Teaching</a> page to learn more about the classes and my great students!
+</li>
+<li>
+  June 2021 - Our paper <a href="{{site.baseurl}}/Papers/GreeceCovid.pdf">"Deploying an Artificial Intelligence System for COVID-19 Testing at the Greek Border"</a>
+   (with Hamsa Bastani and Kimon Drakopoulos) was named a finalist in the Post-Pandemic Supply-Chain and Healthcare Management Conference's Best Paper Competition.
+</li>
 <li> May 2021 - My doctoral student <a href="https://mh3166.github.io/">Michael Huang</a> was awarded the Marshall School of Business PhD Student Outstanding Researcher Award.  This award is allocated to one student at Marshall each year. Congratulations, Michael!
 </li>
 <li>May 2021 - Prof. Kimon Drakopoulos and I are honored to received the Dr. Jagdish Sheth Award for Impact of Research on Practice for <a href="{{site.baseurl}}/Papers/GreeceCovid.pdf">our work</a> with the Greek Government managing their COVID-19 response.

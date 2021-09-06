@@ -53,6 +53,10 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <!-- <div class="updates" style="height: 15em; overflow-y: scroll;">
  -->
 <ul>
+<li> Sept 2021 - Our new 
+<a href="{{site.baseurl}}/Papers/WagnerSubmission.pdf"> paper </a>
+  was selected as a <b>Finalist in the 2021 Wagner Prize for Excellence in Operations Research</b>!  Come support Hamsa Bastani, Kimon Drakopoulos and me at the INFORMS Annual Meeting when they announce the winner.
+</li>
 <li> June 2021 - I finished designing and teaching three new classes this past semester: a PhD Class on "Stochastic Foundations of Prescriptive Analytics", a PhD workshop on "Expositional Writing for Mathematics", and Marshall's "Undergraduate Honors Research Seminar."  Check out my <a href="{{site.baseurl}}/teaching.html">Teaching</a> page to learn more about the classes and my great students!
 </li>
 <li>

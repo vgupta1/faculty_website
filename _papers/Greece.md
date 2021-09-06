@@ -1,5 +1,5 @@
 ---
-title: Deploying a Data-Driven COVID-19 Screening Policy at the Greek Border
+title: Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning
 shorttitle: Greece
 journal: Under Review
 pub_date: 
@@ -12,6 +12,8 @@ links:
   - name: Open-Source Code for Algorithm
     path: https://github.com/vgupta1/EvaTargetedCovid19Testing
 ---
+(Formerly titled:  Deploying a Data-Driven COVID-19 Screening Policy at the Greek Border)
+
 In collaboration with the Greek government, we designed and deployed a nation-wide COVID-19 screening protocol for travelers to Greece.  The goals of the protocol were to combine limited demographic information about arriving travelers with screening results from recently tested travelers to i) judiciously allocate Greece's limited testing budget to identify asymptomatic, infected travelers and ii) quickly identify hotspots and spikes in other nations to inform immigration/border policies in real-time.  
 
 This paper details: 

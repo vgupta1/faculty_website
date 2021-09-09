@@ -6,6 +6,10 @@ pub_date:
 authors: Hamsa Bastani, Kimon Drakopoulos
 sort_order: 12
 pdf_path: GreeceCovid.pdf
+awards: 
+  - name: Finalist, 2021 Pierskalla Best Paper Competition (Winner to be announced at INFORMS!)
+  - name: Finalist in the Post-Pandemic Supply-Chain and Healthcare Management Conference's Best Paper Competition
+  - name: Spotlight Presentation at the Reinforcement Learning for Real-Life Workshop (ICML 2021)
 links:
   - name: SSRN
     path: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789038
@@ -14,12 +18,27 @@ links:
 ---
 (Formerly titled:  Deploying a Data-Driven COVID-19 Screening Policy at the Greek Border)
 
-In collaboration with the Greek government, we designed and deployed a nation-wide COVID-19 screening protocol for travelers to Greece.  The goals of the protocol were to combine limited demographic information about arriving travelers with screening results from recently tested travelers to i) judiciously allocate Greece's limited testing budget to identify asymptomatic, infected travelers and ii) quickly identify hotspots and spikes in other nations to inform immigration/border policies in real-time.  
-
-This paper details: 
- - the operations of our designed system (including border screening, database management, closed-loop feedback, and liasing with contact-tracing teams) 
- - a novel, batched, contextual bandit algorithm tailored to the unique features of this problem and 
- - an empirical assessment of the benefits of the deployed system from the summer/fall 2020.  
+On July 1st, 2020, members of the European Union gradually lifted earlier COVID-19 restrictions
+on non-essential travel. In response, we designed and deployed “Eva” – a novel reinforcement
+learning system – across all Greek borders to identify asymptomatic travelers infected with
+SARS-CoV-2. Eva allocates Greece’s limited testing resources based on demographic
+characteristics and results from previously tested travelers to (i) limit the influx of new cases and
+(ii) provide real-time estimates of COVID-19 prevalence to inform border policies.
+Counterfactual analysis shows that Eva identified 1.85x as many asymptomatic, infected
+travelers as random surveillance testing, with up to 2-4x as many during peak travel. Moreover,
+Eva identified approximately 1.25-1.45x as many infected travelers as policies that require
+similar infrastructure as Eva, but make allocations based on population-level epidemiological
+metrics (cases/deaths/positivity rates) rather than reinforcement learning. Eva was also able to
+identify countries with atypically high prevalence earlier than machine learning methods based
+on epidemiological metrics alone, which allowed Greece to adaptively adjust border policies to
+prevent additional infected travelers from arriving.
+Finally, using Eva’s unique cross-country dataset on prevalence in asymptomatic, traveler
+populations, we show that epidemiological metrics had limited predictive value for the actual
+prevalence among asymptomatic travelers, and furthermore exhibited strong country-specific
+idiosyncrasies in summer 2020. Our insights raise serious concerns about internationally
+proposed border control policies [1] that are country-agnostic and based on population-level
+epidemiological metrics. Instead, our work paves the way for leveraging reinforcement learning
+and real-time data for public health goals, such as border control during a pandemic.  
 
 Open-source code with a brief overview of the algorithm is also available above.  
 

@@ -1,8 +1,8 @@
 ---
 title: Efficient and Targeted COVID-19 Border Testing via Reinforcement Learning
 shorttitle: Greece
-journal: Under Review
-pub_date: 
+journal: Nature
+pub_date: Published online 22 Sept 2021
 authors: Hamsa Bastani, Kimon Drakopoulos
 sort_order: 12
 pdf_path: GreeceCovid.pdf
@@ -11,10 +11,14 @@ awards:
   - name: Finalist in the Post-Pandemic Supply-Chain and Healthcare Management Conference's Best Paper Competition
   - name: Spotlight Presentation at the Reinforcement Learning for Real-Life Workshop (ICML 2021)
 links:
+  - name: 10.1038/s41586-021-04014-z
+    path: https://www.nature.com/articles/s41586-021-04014-z
   - name: SSRN
     path: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789038
-  - name: Open-Source Code for Algorithm
+  - name: Open Source Algorithm
     path: https://github.com/vgupta1/EvaTargetedCovid19Testing
+  - name: Code Supporting Paper
+    path: https://github.com/vgupta1/EVA_CounterfactualAnalysis
 ---
 (Formerly titled:  Deploying a Data-Driven COVID-19 Screening Policy at the Greek Border)
 
@@ -43,11 +47,13 @@ and real-time data for public health goals, such as border control during a pand
 Open-source code with a brief overview of the algorithm is also available above.  
 
 Please see also:
+ - [Nature News and Views](https://www.nature.com/articles/d41586-021-02556-w)
+ - [Nature Editorial: Greece Used AI to Curb COVID](https://www.nature.com/articles/d41586-021-02554-y)
+ - [USC News](https://news.usc.edu/192093/greece-covid-testing-travel-eva-algorithm-usc-study/)
  - [Webinar with Authors](https://www.marshall.usc.edu/news/project-eva-ai-covid-and-greek-tourism)
- - [My INFORMS Talk](https://cattendee.abstractsonline.com/meeting/9022/presentation/1935
-) (accessible to INFORMS members only)
- - Popular News Coverage:  
+ - Other Popular News Coverage:  
    - [Entrepreneur](https://www.entrepreneur.com/article/363706)
+   - [EurekAlert!](https://www.eurekalert.org/news-releases/929315)
    - [PhocusWire](https://www.phocuswire.com/algorithms-helped-bring-tourists-back-to-Greece)- [Travel Weekly Asia](https://www.travelweekly-asia.com/Destination-Travel/Reopening-to-tourism-It-s-all-Greek-to-me)
    - [USC Marshall News](https://www.marshall.usc.edu/news/data-driven-reopening)
    - [USC Press Release](https://pressroom.usc.edu/reopen-greek-economy/)

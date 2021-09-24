@@ -55,6 +55,15 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <ul>
 <li> Sept 2021 - Our  
 <a href="{{site.baseurl}}/Papers/GreeceCovid.pdf">paper</a>
+   (with Hamsa Bastani and Kimon Drakopoulos)  was 
+   <b> ACCEPTED TO NATURE </b>!  I'm incredibly honored and so fortunate to have such great collaborators that helped make this possible.  Be sure to check out this excellent <a href = "https://www.nature.com/articles/d41586-021-02556-w"> summary piece </a> from <a href = "http://ziadobermeyer.com/"> Ziad Obermeyer </a> on our work as well!
+</li>
+<li> Sept 2021 - Our  
+<a href="{{site.baseurl}}/Papers/GreeceCovid.pdf">paper</a>
+   (with Hamsa Bastani and Kimon Drakopoulos)  was selected as a <b>Finalist in the 2021 Public Sector OR Best Paper Competition</b>!  Come support us at the INFORMS Annual Meeting when they announce the winner.
+</li>
+<li> Sept 2021 - Our  
+<a href="{{site.baseurl}}/Papers/GreeceCovid.pdf">paper</a>
    (with Hamsa Bastani and Kimon Drakopoulos)  was selected as a <b>Finalist in the 2021 Pierskalla Best Paper Competition</b>!  Come support us at the INFORMS Annual Meeting when they announce the winner.
 </li>
 <li> Sept 2021 - Our new 

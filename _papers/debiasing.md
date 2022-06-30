@@ -3,8 +3,8 @@ title: Debiasing In-Sample Policy Performance for Small-Data, Large-Scale Optimi
 authors: Michael Huang and Paat Rusmevichientong
 shorttitle: Debiasing
 journal: Under Review
-pub_date:
-sort_order: 13
+pub_date: Last updated Feb 2021
+sort_order: 15
 pdf_path: debiasing.pdf
 links:
   - name: SSRN

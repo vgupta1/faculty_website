@@ -7,7 +7,8 @@ authors: Hamsa Bastani, Kimon Drakopoulos
 sort_order: 12
 pdf_path: GreeceCovid.pdf
 awards: 
-  - name: Finalist, 2021 Pierskalla Best Paper Competition (Winner to be announced at INFORMS!)
+  - name: Winner 2021 Pierskalla Best Paper Competition 
+  - name: 2nd Place 2021 Public Sector Operations Research Best Paper Award
   - name: Finalist in the Post-Pandemic Supply-Chain and Healthcare Management Conference's Best Paper Competition
   - name: Spotlight Presentation at the Reinforcement Learning for Real-Life Workshop (ICML 2021)
 links:

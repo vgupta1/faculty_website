@@ -2,7 +2,7 @@
 title: The Value of Personalized Pricing
 shorttitle: PersonalizedPricing
 journal: Management Science
-pub_date: Forthcoming
+pub_date: Published online 5 April 2021
 authors: Adam Elmachtoub and Michael Hamilton
 awards:
   - name: Finalist in the 2018 INFORMS Service Science Best Paper Award
@@ -10,6 +10,8 @@ awards:
 sort_order: 10
 pdf_path: PersonalizedPricing.pdf
 links:
+  - name: 10.1287/mnsc.2020.3821
+    path: https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3821
   - name: SSRN
     path: https://ssrn.com/abstract=3127719
   - name: Open-Source Code

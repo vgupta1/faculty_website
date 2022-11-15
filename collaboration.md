@@ -28,8 +28,8 @@ Please send me an email to schedule a meeting!
 If you're a prospective Ph.D. candidate, please apply to our [Ph.D. program in Data Science and Operations](http://www.marshall.usc.edu/phd/fields/iom).  Ph.D. candidates are admitted and funded by the school, not by individual faculty.  Hence, all applications are reviewed by a committee, and my opinion is only one of many.  
 
 Questions about the program (admissions process, logistics, etc.) can be directed to 
-* [Me](), the Operations Management Ph.D. Coordinator within DSO
-* [Prof. Wen Sun](http://faculty.marshall.usc.edu/WenGuang-Sun/), the Statistics Ph.D. Program Coordinator within DSO
+* [Me](), DSO Ph.D. Coordinator (and Operations Management PhD Coordinator)
+* [Prof. Gourab Mukherjee](https://gmukherjee.github.io/), the Statistics Ph.D. Program Coordinator within DSO
 * [Julie Phaneuf](phaneuf@marshall.usc.edu), Associate Director of all USC Marshall Ph.D. Programs
 
 ### Want to work with me specifically?
@@ -38,7 +38,7 @@ Please specify in your application that you are interested in working with me, a
 ## Existing Ph.D. Students
 If you're an existing Ph.D. student (perhaps not at USC Marshall) and want to collaborate on a project, please:
 
-* Check to make sure it's ok with your advisor.
+* **Check to make sure it's ok with your advisor.**
 * Take a look at some of my research papers.
 * Email me so we can talk about your research so far, and what kinds of problems you want to collaborate on.
 

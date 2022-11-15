@@ -2,11 +2,13 @@
 title: Data-Pooling in Stochastic Optimization
 shorttitle: DataPooling
 journal: Management Science
-pub_date: Forthcoming
+pub_date: Published online 27 March 2021
 authors: Nathan Kallus
 sort_order: 11
 pdf_path: DataPooling_WP.pdf
 links:
+  - name: 10.1287/mnsc.2020.3933
+    path: https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3933
   - name: SSRN
     path: http://ssrn.com/abstract=3397336
   - name: Open-Source Code

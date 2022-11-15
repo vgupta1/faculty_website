@@ -65,6 +65,9 @@ excerpt: Vishal Gupta USC University of Southern California Marshall School of B
 <div class="updates" style="height: 15em; overflow-y: scroll;">
 
 <ul>
+<li> Sept 2022 - New <a href="{{site.baseurl}}/Papers/all_lectures_singapore.pdf"> lecture notes </a>  for from my recent PhD Mini-course at 
+<a href="https://iora.nus.edu.sg/"> 
+NUS IORA </a>.
 <li> June 2021 - My <a href = "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/"> brief piece </a> aimed at pratictioners to get them thinking about ethical issues in AI deployment appeared in VentureBeat
 </li>
 <li> April 2021 - So proud of my three undergraduate mentees -- Tiffany Chou, Sanika Sahasrabudhe, and Spencer Xie -- for receiving <b>USC's Discovery Scholar Distinction</b> for their undergraduate theses!  

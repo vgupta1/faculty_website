@@ -11,6 +11,15 @@ Please feel free to use/adapt these materials in your own classes.  If you do, p
 
 Associated datasets, example code, and teaching notes are also available upon request.
 
+## Mini-Course:  (Some) Stochastic Foundations of Decision-Aware Learning
+
+* National University of Singapore (NUS), PhD Elective
+* [Syllabus](/Papers/Syllabus_Singapore.pdf)
+* [Lecture Notes](/Papers/all_lectures_singapore.pdf)
+
+This (very brief) mini-course is a whirlwind introduction to some of the tools used in the analysis of decision-aware learning algorithms and concentration inequalities.  
+
+
 ## AI: Seed for Change or Existential Threat?
 * USC Marshall, Undergraduate Elective
 * Curriculum Development (2021), Instructor (2022) 

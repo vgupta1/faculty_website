@@ -31,3 +31,18 @@ Jekyll and Ruby are retired as of this revamp. The root-level
 _config.yml, Gemfile, _papers/, _includes/ and _site/ are kept as
 history only and are not maintained or built. The new site is
 hand-authored HTML in a separate repo.
+
+## Deviation: Ruby dependency files removed
+
+`GemFile` and `Gemfile.lock` were removed from this snapshot (and from the
+repo root and `_site/`) after the first push. They are build inputs, not
+site content, and Jekyll is retired — nothing installs or runs them.
+
+Keeping them at HEAD made GitHub raise 57 Dependabot vulnerability alerts
+against a 2020-era `github-pages` gem bundle (Jekyll 3.4.1/3.8.5, Ruby
+2.5.1, nokogiri 1.10.7, kramdown 1.17.0, activesupport 6.0.2.1). None of
+those were a real exposure — no CI, no build, nothing installed — but
+they generate recurring noise on a repo that is now an archive.
+
+Both files remain in git history if ever needed:
+  git show a8971e2:legacy-live-site/Gemfile.lock

@@ -248,7 +248,8 @@
     compare our proposed method to state-of-the-art approaches through a case-study on dispatching
     emergency medical response services using real data. Our method provides more accurate estimates
     of out-of-sample performance and learns better-performing policies.
-  retired_local_pdf: debiasing.pdf
+  retired_local_pdf: Debiasing.pdf   # server has the capitalized name; the old
+  # site linked lowercase "debiasing.pdf", which was a 404 on a case-sensitive server
 - key: interpretable_operations_research_for
   title: 'Interpretable Operations Research for High-Stakes Decisions: Designing the Greek COVID-19
     Testing System'

@@ -1,1 +1,7 @@
+.DS_Store
+**/.DS_Store
+.jekyll-cache/
+_site_build/
 
+# Never archive this: internal-only CV, and this remote is public
+legacy-live-site/Papers/CV_Mar2020_Internal.pdf

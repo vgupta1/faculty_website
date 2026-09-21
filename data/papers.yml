@@ -19,12 +19,13 @@
   - Paat Rusmevichientong
   venue: 'INFORMS Transactions on Education: Special Issue on Generative AI in Teaching Management
     Science, Operations Research, Operations Management, and Analytics'
-  venue_raw: 'Minor Revision in INFORMS Transactions on Education: Special Issue on Generative AI
+  venue_raw: 'INFORMS Transactions on Education: Special Issue on Generative AI
     in Teaching Management Science, Operations Research, Operations Management, and Analytics.'
-  year: null
-  status: in_revision
-  primary: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400634
+  year: 2026
+  status: published
+  primary: https://doi.org/10.1287/ited.2025.0168
   links:
+    doi: https://doi.org/10.1287/ited.2025.0168
     ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400634
   local_pdf: null
   awards: []
@@ -46,7 +47,7 @@
     and OR education to reduce technical barriers and sharpen focus on core modeling skills.
   retired_local_pdf: 311_313_AI.pdf
 - key: 3d_printing_for_supply
-  title: 3D-Printing for Supply-Chain Resilience
+  title: 3D-Printing for Supply Chain Resilience
   authors:
   - Ziyu He
   - Nick Vyas
@@ -84,11 +85,11 @@
   title: Decision-Focused Learning with Directional Gradients
   authors:
   - Michael Huang
-  venue: NeurIPS 2025
-  venue_raw: NeurIPS 2025.
-  year: 2025
+  venue: NeurIPS 2024
+  venue_raw: NeurIPS 2024.
+  year: 2024
   status: conference
-  primary: https://arxiv.org/abs/2402.03256
+  primary: https://proceedings.neurips.cc/paper_files/paper/2024/hash/907a9fb75a408f6c3a2ae1bf84c39e44-Abstract-Conference.html
   links:
     proceedings: https://proceedings.neurips.cc/paper_files/paper/2024/hash/907a9fb75a408f6c3a2ae1bf84c39e44-Abstract-Conference.html
     arxiv: https://arxiv.org/abs/2402.03256
@@ -107,17 +108,17 @@
     is misspecified.
   retired_local_pdf: PGLosses.pdf
 - key: beyond_discretization_learning_the
-  title: 'Beyond Discretization: Learning the Solution Path'
+  title: 'Beyond Discretization: Learning the Optimal Solution Path'
   authors:
   - Qiran Dong
   - Paul Grigas
-  venue: AIStats 2025
-  venue_raw: AIStats 2025.
+  venue: AISTATS 2025
+  venue_raw: 'Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 258, 2025.'
   year: 2025
   status: conference
-  primary: https://arxiv.org/abs/2410.14885
+  primary: https://proceedings.mlr.press/v258/dong25a.html
   links:
-    proceedings: https://virtual.aistats.org/virtual/2025/poster/988
+    proceedings: https://proceedings.mlr.press/v258/dong25a.html
     arxiv: https://arxiv.org/abs/2410.14885
   local_pdf: null
   awards: []
@@ -171,6 +172,35 @@
     approach surpasses traditional decision-blind techniques, underscoring that optimal smoothing
     levels for a denoising algorithm should depend on the downstream decision problem.'
   retired_local_pdf: DecisionAwareDenoising.pdf
+- key: balanced_off_policy_evaluation
+  title: Balanced Off-Policy Evaluation for Personalized Pricing
+  authors:
+  - Adam Elmachtoub
+  - Yunfan Zhao
+  venue: AISTATS 2023
+  venue_raw: 'Proceedings of the 26th International Conference on Artificial Intelligence and Statistics
+    (AISTATS), PMLR 206:10901-10917, 2023.'
+  year: 2023
+  status: conference
+  primary: https://proceedings.mlr.press/v206/elmachtoub23a.html
+  links:
+    proceedings: https://proceedings.mlr.press/v206/elmachtoub23a.html
+    arxiv: https://arxiv.org/abs/2302.12736
+    code: https://github.com/yzhao3685/pricing-evaluation
+  local_pdf: null
+  awards: []
+  abstract: We consider a personalized pricing problem in which we have data consisting of feature
+    information, historical pricing decisions, and binary realized demand. The goal is to perform
+    off-policy evaluation for a new personalized pricing policy that maps features to prices. Methods
+    based on inverse propensity weighting (including doubly robust methods) for off-policy evaluation
+    may perform poorly when the logging policy has little exploration or is deterministic, which
+    is common in pricing applications. Building on the balanced policy evaluation framework of Kallus
+    (2018), we propose a new approach tailored to pricing applications. The key idea is to compute
+    an estimate that minimizes the worst-case mean squared error or maximizes a worst-case lower bound
+    on policy performance, where in both cases the worst-case is taken with respect to a set of possible
+    revenue functions. We establish theoretical convergence guarantees and empirically demonstrate
+    the advantage of our approach using a real-world pricing dataset.
+  retired_local_pdf: null
 - key: simplifying_the_analysis_of
   title: Simplifying the Analysis of the Stein Correction in the Small Data-Large Scale Optimization
     Regime
@@ -220,8 +250,8 @@
   - Michael Huang
   - Paat Rusmevichientong
   venue: Operations Research
-  venue_raw: Operations Research (Nov. 2022) .
-  year: 2022
+  venue_raw: Operations Research 72(2):848-870 (online Nov. 2022).
+  year: 2024
   status: published
   primary: https://doi.org/10.1287/opre.2022.2377
   links:
@@ -284,6 +314,22 @@
     and Targeted COVID-19 Border Testing via Reinforcement Learning – above for more context on the
     Eva Project.'
   retired_local_pdf: Wagner_Submission.pdf
+- key: chatocrates_socratic_chatbot
+  title: 'Chatocrates: An AI-Powered, Socratic Chatbot for Teaching AI Ethics'
+  authors: []
+  venue: 'Chapter in "Embracing AI in Business Education: A Case Study of USC Marshall School of
+    Business" (SSRN white paper)'
+  venue_raw: 'Chapter in Bien, J., Burgos, M., Cardon, P., et al. (incl. V. Gupta), "Embracing AI
+    in Business Education: A Case Study of USC Marshall School of Business," SSRN 4975641, 2024.'
+  year: 2024
+  status: chapter
+  primary: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975641
+  links:
+    ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975641
+  local_pdf: null
+  awards: []
+  abstract: null  # NEEDS VISHAL: 2-3 sentence description of Chatocrates
+  retired_local_pdf: null
 - key: optimization_in_the_small
   title: Optimization in the Small-Data, Large-Scale Regime
   authors: []
@@ -352,8 +398,8 @@
   authors:
   - Nathan Kallus
   venue: Management Science
-  venue_raw: Management Science (Published online 27 March 2021) .
-  year: 2021
+  venue_raw: Management Science 68(3):1595-1615 (online 27 March 2021).
+  year: 2022
   status: published
   primary: https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3933
   links:
@@ -416,12 +462,12 @@
     tractable linear optimization problems.
   retired_local_pdf: PersonalizedPricing.pdf
 - key: small_data_large_scale
-  title: Small-Data, Large-Scale Linear Optimization
+  title: Small-Data, Large-Scale Linear Optimization with Uncertain Objectives
   authors:
   - Paat Rusmevichientong
   venue: Management Science
-  venue_raw: Management Science (Published online 1 July 2020) .
-  year: 2020
+  venue_raw: Management Science 67(1):220-241 (online 1 July 2020).
+  year: 2021
   status: published
   primary: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3554
   links:
@@ -528,8 +574,8 @@
   - Dimitris Bertsimas
   - Nathan Kallus
   venue: Mathematical Programming
-  venue_raw: Mathematical Programming (Feb. 2017) .
-  year: 2017
+  venue_raw: Mathematical Programming 167(2):235-292 (online Feb. 2017).
+  year: 2018
   status: published
   primary: http://link.springer.com/article/10.1007/s10107-017-1125-8
   links:
@@ -554,8 +600,8 @@
   - Dimitris Bertsimas
   - Nathan Kallus
   venue: Mathematical Programming
-  venue_raw: Mathematical Programming (Jun. 2017) .
-  year: 2017
+  venue_raw: Mathematical Programming 171(1-2):217-282 (online Jun. 2017).
+  year: 2018
   status: published
   primary: https://link.springer.com/article/10.1007%2Fs10107-017-1174-z
   links:
@@ -576,16 +622,15 @@
     outperforms other data-driven approaches in these applications.
   retired_local_pdf: RobustSAA.pdf
 - key: a_comparison_of_monte
-  title: A Comparison of Monte Carlo Tree Search and Mathematical Optimization for Large Scale Dynamic
-    Resource Allocation
+  title: A Comparison of Monte Carlo Tree Search and Rolling Horizon Optimization for Large-Scale Dynamic
+    Resource Allocation Problems
   authors:
   - Dimitris Bertsimas
   - John D. Griffith
   - Mykel Kochenderfer
   - Velibor Misic
-  - Robert Moss
-  venue: European Journal of Operations Research
-  venue_raw: European Journal of Operations Research (Dec. 2017) .
+  venue: European Journal of Operational Research
+  venue_raw: European Journal of Operational Research 263(2):664-678 (2017).
   year: 2017
   status: published
   primary: http://www.sciencedirect.com/science/article/pii/S0377221717304605
@@ -613,8 +658,8 @@
   - Dimitris Bertsimas
   - Ioannis Ch. Paschalidis
   venue: Mathematical Programming
-  venue_raw: Mathematical Programming (Sep. 2014) .
-  year: 2014
+  venue_raw: Mathematical Programming 153(2):595-633 (online Sep. 2014).
+  year: 2015
   status: published
   primary: http://link.springer.com/article/10.1007/s10107-014-0819-4
   links:

@@ -221,17 +221,19 @@
     a random linear optimization problem by considering worst-case dual realizations.
   retired_local_pdf: null
 - key: reinforcement_learning_for_public
-  title: Reinforcement Learning for Public Health - Targeted COVID-19 Screening
+  title: 'Reinforcement Learning for Public Health: Targeted COVID-19 Screening'
   authors:
   - Hamsa Bastani
   - Kimon Drakopoulos
-  venue: Invited Chapter to "Artificial Intelligence for Social Impact"
+  venue: Chapter in "AI for Social Impact" (F. Fang, M. Tambe and B. Wilder, eds.)
   venue_raw: Invited Chapter to "Artificial Intelligence for Social Impact" (Forthcoming) .
-  year: null
-  status: accepted
-  primary: null
-  links: {}
-  local_pdf: AI_for_Social_Good_Chapter.pdf
+  year: 2022
+  status: chapter
+  primary: https://ai4sibook.org/targeted-covid-19-screening
+  links:
+    chapter: https://ai4sibook.org/targeted-covid-19-screening
+    pdf: https://ai4sibook.org/wp-content/uploads/2022/08/targeting-covid-screening.pdf
+  local_pdf: null
   awards: []
   abstract: (This is an invited chapter to a edited book.) Reinforcement learning is a promising
     solution to sequential decision-making problems, but its use has largely been limited to simulation
@@ -243,7 +245,7 @@
     Results from the field evaluation show a marked improvement over other “open- loop” testing strategies
     and highlight some of the challenges of deploying reinforcement learning in real-world, high-stakes
     settings.
-  retired_local_pdf: null
+  retired_local_pdf: AI_for_Social_Good_Chapter.pdf   # canonical copy now on ai4sibook.org
 - key: debiasing_in_sample_policy
   title: Debiasing In-Sample Policy Performance for Small-Data, Large-Scale Optimization
   authors:
@@ -286,6 +288,12 @@
   authors:
   - Hamsa Bastani
   - Kimon Drakopoulos
+  - Jon Vlachogiannis
+  - Christos Hadjichristodoulou
+  - Pagona Lagiou
+  - Gkikas Magiorkinis
+  - Dimitrios Paraskevis
+  - Sotirios Tsiodras
   venue: INFORMS Journal on Applied Analytics
   venue_raw: INFORMS Journal on Applied Analytics (Sept. 2022).
   year: 2022
@@ -356,6 +364,12 @@
   authors:
   - Hamsa Bastani
   - Kimon Drakopoulos
+  - Jon Vlachogiannis
+  - Christos Hadjichristodoulou
+  - Pagona Lagiou
+  - Gkikas Magiorkinis
+  - Dimitrios Paraskevis
+  - Sotirios Tsiodras
   venue: Nature
   venue_raw: Nature (Published online 22 Sept 2021) .
   year: 2021
@@ -367,6 +381,10 @@
     code: https://github.com/vgupta1/EvaTargetedCovid19Testing
   local_pdf: null
   awards:
+  - Winner of the 2021 Pierskalla Best Paper Competition (INFORMS Health Applications Society)
+  - 2nd Place in the 2021 Public Sector Operations Research Best Paper Competition (INFORMS)
+  - Finalist in the 2021 Post-Pandemic Supply-Chain and Healthcare Management Best Paper Competition
+  notes:
   - Spotlight Presentation at the Reinforcement Learning for Real-Life Workshop (ICML 2021)
   abstract: '(Formerly titled: Deploying a Data-Driven COVID-19 Screening Policy at the Greek Border)
     On July 1st, 2020, members of the European Union gradually lifted earlier COVID-19 restrictions
@@ -443,6 +461,8 @@
     code: https://github.com/vgupta1/VoPP_OptProblems
   local_pdf: null
   awards:
+  - Finalist in the 2018 INFORMS Service Science Best Paper Competition
+  notes:
   - Accepted in The 15th Conference on Web and Internet Economics (WINE), 2019
   abstract: Increased availability of high-quality customer information has fueled interest in personalized
     pricing strategies, i.e., strategies that predict an individual customer’s valuation for a product
@@ -514,6 +534,7 @@
     ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3026913
   local_pdf: null
   awards:
+  - Finalist in the 2018 Pierskalla Best Paper Competition (INFORMS Health Applications Society)
   - Finalist in the 2018 POMS College of Healthcare and Operations Management (CHOM) Best Paper Competition
   abstract: 'Frequently, policymakers seek to roll out an intervention previously proven effective
     in a research study, perhaps subject to resource constraints. However, since different subpopulations
